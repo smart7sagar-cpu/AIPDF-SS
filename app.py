@@ -15,7 +15,7 @@ SUMMARY_LIMIT = 45000
 QA_LIMIT = 55000
 
 st.set_page_config(page_title="AI PDF Assistant", page_icon="🚀", layout="wide")
-st.title("🚀 AI PDF Assistant")
+st.title("🚀 AI PDF Assistant (made by SAGAR)")
 
 # ---------------- API client ----------------
 try:
