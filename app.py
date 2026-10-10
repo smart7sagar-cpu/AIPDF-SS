@@ -11,8 +11,8 @@ MODEL_CANDIDATES = [
     "gemini-3.8-flash",
     "gemini-2.5-flash",
 ]
-SUMMARY_LIMIT = 45000
-QA_LIMIT = 55000
+SUMMARY_LIMIT = 100000000
+QA_LIMIT = 100000000
 
 st.set_page_config(page_title="AI PDF Assistant", page_icon="🚀", layout="wide")
 st.title("🚀 AI PDF Assistant (made by SAGAR)")
